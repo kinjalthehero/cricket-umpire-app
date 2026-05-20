@@ -1,6 +1,6 @@
-**Live App: [https://kinjalthehero.github.io/wicket-wizard/](https://kinjalthehero.github.io/wicket-wizard/)**
+**Live App: [https://kinjalthehero.github.io/cricket-umpire-app/](https://kinjalthehero.github.io/cricket-umpire-app/)**
 
-# Wicket Wizard - Cricket Umpire Scoreboard
+# Cricket Umpire App
 
 A fast, mobile-friendly scoreboard web app for cricket umpires. Track runs, balls, overs, and wickets in real time during a live match.
 
@@ -16,7 +16,7 @@ A fast, mobile-friendly scoreboard web app for cricket umpires. Track runs, ball
 
 ## Usage
 
-Open the app at **[https://kinjalthehero.github.io/wicket-wizard/](https://kinjalthehero.github.io/wicket-wizard/)** on any browser or mobile device.
+Open the app at **[https://kinjalthehero.github.io/cricket-umpire-app/](https://kinjalthehero.github.io/cricket-umpire-app/)** on any browser or mobile device.
 
 To run locally, open `index.html` in any browser. No build step, no dependencies, no backend.
 
